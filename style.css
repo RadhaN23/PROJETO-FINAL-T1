@@ -1,0 +1,111 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Serif:opsz,wght@8..144,700&display=swap");
+
+   *{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+   }
+
+   header{
+
+height: 15vh;
+width:100vw;
+background-color: black;
+border:solid brown;
+display: flex;
+justify-content:space-around;
+align-items: center;
+
+
+   }
+   
+
+
+   header section{
+      height: 10vh;;
+      width: 30vw;
+      display: flex;
+      justify-content: space-between;
+      
+   }
+
+   logo {
+          height: 10px;;   
+          width: 4vw;
+          display:flex;
+          justify-content: center;
+          
+          
+
+
+   }
+      .nave img{
+         width: 3vw;
+         display: flex;
+         justify-content: space-between;
+         align-items:flex-end;
+      }
+
+
+   
+    .nave {
+      height: 100;
+      width: 100%;
+      display: flex;
+      justify-content:space-around; 
+
+  }
+  .imgclasslogo{
+   height: vh;
+   width: 5vw;
+
+  }
+
+ul:{
+   height: 100%;
+  width: 100%;
+  display:flex;
+  justify-content:space-evenly;
+  align-items:flex-end
+
+}
+li{
+   height: 5vh;
+   width: 5vw;
+   display:inline-block;
+   justify-content:flex-end;
+   align-items:center;
+}
+
+  div{
+   background-image: url("IMAGENS/dog\ festeiro.png");
+   
+   background-repeat: no-repeat;
+   background-size:cover;
+   height: 120vh;
+   width: 100vw;
+   display: flex;
+   justify-content: center;
+
+
+  }
+  h1{
+   font-family:("Roboto+Serif:opsz,wght@8..144,700&display=swap");
+   ;
+  }
+   
+   .h2[
+      
+
+   ]
+  
+  
+
+  
+
+
+   
+
+   
+  
